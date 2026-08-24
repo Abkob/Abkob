@@ -33,12 +33,13 @@ physiological signals -> quality control -> interpretable features
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
+| [Research Portfolio](https://github.com/Abkob/Research_Portfolio) | Evidence maps and scoped case studies spanning ear-EEG, prosthetic sensing, computer vision for rubble environments, and sparse-camera room reconstruction | Literature synthesis, experimental design, reproducibility |
 | [ECG Feature Detector](https://github.com/Abkob/ECG_FE_Detector_Interface) | Four-branch research implementation for R-peaks/RR/HRV, beat morphology, conduction/repolarization, and ECG signal quality, with tests and evidence-led documentation | Python, SciPy, notebooks, pytest |
 | [BCI and Epilepsy Research](https://github.com/Abkob/Research_BCI) | Paper-guided EEG/ECoG feature-extraction notebooks, patient-aware questions, and explicit reproducibility boundaries | Python, NumPy, PyWavelets, scikit-learn |
 | [WSP Offline System](https://github.com/Abkob/WSP_automationexcel) | Privacy-first local data ingestion, auditable semantic matching, record history, health checks, and Windows packaging | Python, SQLite, pandas, FAISS |
 | [Amina OS](https://github.com/Abkob/Amina) | Local-first research/project system with structured truth, graph relationships, retrieval, and confirmable AI-assisted actions | React, TypeScript, PostgreSQL, pgvector |
-| Smart Multimodal Prosthetic Liner | Team research project translating literature on socket-limb mechanics into a thin sensor architecture for pressure, biaxial shear, temperature, and humidity | Flexible sensing, CAD, signal processing |
-| Sinmar / Al-Mizan | Private bilingual data-system modernization with migration audits, backup/recovery, and SQLite/PostgreSQL parity checks; operational data remains private | Python, Flask, SQL, testing |
+
+Selected private and team work includes a smart multimodal prosthetic liner and Sinmar / Al-Mizan, a bilingual data-system modernization project. Public case studies explain the methods and engineering decisions without publishing operational records, team-confidential material, or copyrighted paper archives.
 
 ## Research practice
 
@@ -70,7 +71,7 @@ The [Machine Learning Research Syllabus](https://github.com/Abkob/Machine_Learni
 - [LeetCode solutions](https://github.com/Abkob/LeetCode) - a transparent, test-backed log of problems I actually solve
 - [DeepML solutions](https://github.com/Abkob/DeepML) - implementations for ML mathematics and modeling exercises I actually complete
 
-These repositories start from zero and grow through real solutions. I do not backfill fabricated files or artificial contribution history.
+These repositories start from a documented baseline and grow through verified solutions with reasoning, complexity analysis, and tests.
 
 ## Open to
 
