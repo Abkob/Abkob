@@ -11,7 +11,7 @@
 
 I am a Computer Science and Engineering student at the American University of Beirut, with a Biomedical Engineering minor and a Data Science concentration. I build research software for physiological signals, assistive sensing, and evidence-centered systems.
 
-My work follows the full research loop: read primary literature, define the data boundary, implement transparent baselines, test failure cases, and document what the evidence does—and does not—support.
+My work follows the full research loop: read primary literature, define the data boundary, implement transparent baselines, test failure cases, and document what the evidence does and doesn't support.
 
 ## Start here
 
