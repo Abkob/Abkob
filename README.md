@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://orcid.org/0009-0007-3870-4619">ORCID</a> ·
   <a href="https://github.com/Abkob/Research_Portfolio">Research portfolio</a> ·
+  <a href="DEVELOPMENT_HISTORY.md">Development history</a> ·
   <a href="https://github.com/Abkob?tab=repositories">All repositories</a>
 </p>
 
@@ -45,6 +46,8 @@ My work follows the full research loop: read primary literature, define the data
 - Primary-source traceability and explicit stage labels
 - Tests, reproducible notebooks, negative results, and limitations
 - No public raw human-subject data, private operational records, credentials, or downloaded publisher archives
+
+The [evidence-backed development history](DEVELOPMENT_HISTORY.md) separates native Git timelines from dated pre-Git artifacts and later public-curation work.
 
 ## Structured self-study
 
