@@ -8,16 +8,16 @@ It does **not** convert file timestamps into Git commits, estimate hours from co
 
 ## Native Git histories
 
-These repositories retain an inspectable commit sequence. Counts are the native commits present before the documentation update that published this audit.
+These repositories retain an inspectable commit sequence. Counts are the native commits present before the documentation update that published this audit. Private-repository counts were checked against the local clone and its matching remote head; their contents are not exposed here.
 
-| Repository | Native commits | Verifiable window | What the history shows |
-|---|---:|---|---|
-| [Amina](https://github.com/Abkob/Amina/commits/main/) | 31 | 23 Jun–25 Aug 2026 | Application development, storage/search work, interface evolution, and public-repository hardening |
-| [WSP Offline System](https://github.com/Abkob/WSP_automationexcel/commits/main/) | 14 | 9 Jun–25 Aug 2026 | Recovery, data-safety cleanup, indexing work, installer releases, packaging, and audited documentation |
-| [Sinmar](https://github.com/Abkob/Sinmar/commits/master/) | 32 | 1–6 Jul 2026 | Deployment, backup, authentication, sales/register workflows, UI refinements, and calculation fixes |
-| [BCI and Epilepsy Research](https://github.com/Abkob/Research_BCI/commits/main/) | 10 | 25 Sep 2025–25 Aug 2026 | Week-based notebook organization followed by reproducibility, provenance, and evidence-boundary documentation |
-| [ECG Feature Detector](https://github.com/Abkob/ECG_FE_Detector_Interface/commits/main/) | 5 | 21–25 Aug 2026 | Initial detector, private-upload handling, analysis controls, tests, and the disclosed ECG–EEG literature review |
-| [Research Portfolio](https://github.com/Abkob/Research_Portfolio/commits/main/) | 5 | 25 Aug 2026 | Public curation of local and Drive projects, artifact manifests, attribution, and publication boundaries |
+| Repository | Visibility | Native commits | Verifiable window | What the history shows |
+|---|---|---:|---|---|
+| [Amina](https://github.com/Abkob/Amina/commits/main/) | Public | 31 | 23 Jun–25 Aug 2026 | Application development, storage/search work, interface evolution, and public-repository hardening |
+| [WSP Offline System](https://github.com/Abkob/WSP_automationexcel/commits/main/) | Public | 14 | 9 Jun–25 Aug 2026 | Recovery, data-safety cleanup, indexing work, installer releases, packaging, and audited documentation |
+| Sinmar | Private; access on request | 32 | 1–6 Jul 2026 | Deployment, backup, authentication, sales/register workflows, UI refinements, and calculation fixes |
+| BCI and Epilepsy Research | Private; access on request | 10 | 25 Sep 2025–25 Aug 2026 | Week-based notebook organization followed by reproducibility, provenance, and evidence-boundary documentation |
+| [ECG Feature Detector](https://github.com/Abkob/ECG_FE_Detector_Interface/commits/main/) | Public | 5 | 21–25 Aug 2026 | Initial detector, private-upload handling, analysis controls, tests, and the disclosed ECG–EEG literature review |
+| [Research Portfolio](https://github.com/Abkob/Research_Portfolio/commits/main/) | Public | 5 | 25 Aug 2026 | Public curation of local and Drive projects, artifact manifests, attribution, and publication boundaries |
 
 ## Work that predates its public repository
 
@@ -27,7 +27,7 @@ Some team projects were developed as notebooks, reports, CAD files, and shared f
 |---|---|---|
 | [AARS Agro-Remediation](https://github.com/Abkob/AARS_Agro_Remediation/blob/main/PROJECT_HISTORY.md) | Six project PDFs carry creation metadata from 26 Jun–20 Jul 2025 | The documents support a 2025 design-work window; the exact notebook edit sequence is not recoverable, and the curated repository began on 25 Aug 2026 |
 | [MotorBrace](https://github.com/Abkob/MotorBrace_BCI_EMG/blob/main/PROJECT_HISTORY.md) | Research proposal dated 26 Aug 2025 and mechanical report dated 16 Sep 2025 in embedded PDF metadata | The reports predate the public repository; notebook chronology is not reconstructed without source version history |
-| [BCI and Epilepsy Research](https://github.com/Abkob/Research_BCI/blob/main/PROJECT_HISTORY.md) | Meeting report and technical notes carry PDF metadata from 25 and 28 Jul 2025 | Those research artifacts predate the first retained Git commit on 25 Sep 2025 |
+| BCI and Epilepsy Research (private archive) | Meeting report and technical notes carry PDF metadata from 25 and 28 Jul 2025 | Those research artifacts predate the first retained Git commit on 25 Sep 2025; access can be provided privately |
 | [Smart Prosthetic Liner](https://github.com/Abkob/Research_Portfolio/tree/main/projects/smart-prosthetic-liner) | Iterative CAD/print-package archives dated 28 Apr–24 May 2026 plus the later team report and reviews | The portfolio preserves inspectable final artifacts and dated filenames, while avoiding an invented commit-by-commit reconstruction |
 | [NeuroSense](https://github.com/Abkob/Research_Portfolio/tree/main/projects/neurosense) | The team concept note identifies the April 2026 hackathon context | The attributable concept note, classifier plan, anonymized interface, and code snapshot were publicly curated on 25 Aug 2026 |
 

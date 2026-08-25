@@ -19,7 +19,7 @@ My work follows the full research loop: read primary literature, define the data
 |---|---|---|
 | [Research Portfolio](https://github.com/Abkob/Research_Portfolio) | Organized archive of reports, research plans, presentations, CAD artifacts, source indexes, and scoped case studies | Project folders + artifact manifests |
 | [ECG Feature Detector](https://github.com/Abkob/ECG_FE_Detector_Interface) | R-peaks/RR/HRV, morphology, conduction/repolarization, and ECG signal quality | Python package, notebooks, tests, literature review |
-| [BCI and Epilepsy Research](https://github.com/Abkob/Research_BCI) | Patient-aware EEG/ECoG feature studies and domain-adversarial learning | Notebooks, provenance notes, leakage-aware evaluation |
+| BCI and Epilepsy Research | Patient-aware EEG/ECoG feature studies and domain-adversarial learning | Private research archive; access available on request |
 
 ## Biomedical signals and assistive technology
 
