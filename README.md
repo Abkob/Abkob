@@ -14,7 +14,7 @@
 
 I am a Computer Science and Engineering student at the American University of Beirut, pursuing a Biomedical Engineering minor and a Data Science concentration. I build research software at the intersection of physiological signals, machine learning, and human-centered systems.
 
-My current work centers on EEG/ECoG and ECG analysis in epilepsy, patient-aware model evaluation, signal-quality-aware feature extraction, and multimodal sensing for assistive technology. I enjoy the full research loop: reading primary literature, translating methods into code, testing assumptions, documenting limitations, and making the result reproducible.
+My current work centers on EEG/ECoG and ECG analysis in epilepsy, patient-aware model evaluation, signal-quality-aware feature extraction, multimodal sensing for assistive technology, and computer vision for field robotics. I enjoy the full research loop: reading primary literature, translating methods into code, testing assumptions, documenting limitations, and making the result reproducible.
 
 ## Research focus
 
@@ -27,7 +27,7 @@ physiological signals -> quality control -> interpretable features
 - Machine learning: patient-aware evaluation, domain shift, deep learning, classical baselines
 - Research engineering: evidence maps, experiment pipelines, testing, documentation, data boundaries
 - Assistive technology: flexible multimodal sensors and prosthetic-interface monitoring
-- Computer vision: detection, segmentation, geolocation, and data-annotation systems
+- Computer vision and robotics: segmentation, geolocation, drone–ground-robot coordination, and data-annotation systems
 
 ## Selected work
 
@@ -35,11 +35,13 @@ physiological signals -> quality control -> interpretable features
 |---|---|---|
 | [Research Portfolio](https://github.com/Abkob/Research_Portfolio) | Evidence maps and scoped case studies spanning ear-EEG, prosthetic sensing, computer vision for rubble environments, and sparse-camera room reconstruction | Literature synthesis, experimental design, reproducibility |
 | [ECG Feature Detector](https://github.com/Abkob/ECG_FE_Detector_Interface) | Four-branch research implementation for R-peaks/RR/HRV, beat morphology, conduction/repolarization, and ECG signal quality, with tests and evidence-led documentation | Python, SciPy, notebooks, pytest |
-| [BCI and Epilepsy Research](https://github.com/Abkob/Research_BCI) | Paper-guided EEG/ECoG feature-extraction notebooks, patient-aware questions, and explicit reproducibility boundaries | Python, NumPy, PyWavelets, scikit-learn |
+| [BCI and Epilepsy Research](https://github.com/Abkob/Research_BCI) | Multi-week progression from patient-aware feature studies to TKEO/SWT conditioning and EEG/ECoG domain-adversarial learning | Python, PyTorch, PyWavelets, scikit-learn |
+| [MotorBrace](https://github.com/Abkob/MotorBrace_BCI_EMG) | Team prototype connecting EEG intent decoding, proposed EEG–EMG–IMU fusion, and assistive knee-orthosis mechanical design | PyTorch, MNE, EMD/CWT, signal processing |
+| [AARS Agro-Remediation](https://github.com/Abkob/AARS_Agro_Remediation) | Drone/ground-level semantic-segmentation experiments and system studies for coordinated WeedBot and SoilBot remediation | TensorFlow, R2AttU-Net, DeepLabV3+, robotics |
 | [WSP Offline System](https://github.com/Abkob/WSP_automationexcel) | Privacy-first local data ingestion, auditable semantic matching, record history, health checks, and Windows packaging | Python, SQLite, pandas, FAISS |
 | [Amina OS](https://github.com/Abkob/Amina) | Local-first research/project system with structured truth, graph relationships, retrieval, and confirmable AI-assisted actions | React, TypeScript, PostgreSQL, pgvector |
 
-Selected private and team work includes a smart multimodal prosthetic liner and Sinmar / Al-Mizan, a bilingual data-system modernization project. Public case studies explain the methods and engineering decisions without publishing operational records, team-confidential material, or copyrighted paper archives.
+Selected private and team work includes a smart multimodal prosthetic liner and Sinmar / Al-Mizan, a bilingual data-system modernization project. Public case studies also document provenance-bounded brain-tumor segmentation and fire-detection studies without publishing restricted data, unclear-license code, operational records, or copyrighted paper archives.
 
 ## Research practice
 
