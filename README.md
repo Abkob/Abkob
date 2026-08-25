@@ -26,7 +26,7 @@ My work follows the full research loop: read primary literature, define the data
 |---|---|---|
 | [MotorBrace](https://github.com/Abkob/MotorBrace_BCI_EMG) | Team research prototype | EEG intent decoding, EEG–EMG–IMU fusion plan, knee-orthosis design |
 | [Smart Prosthetic Liner](https://github.com/Abkob/Research_Portfolio/tree/main/projects/smart-prosthetic-liner) | Team design and literature-to-engineering study | Pressure, shear, temperature, humidity, printed sensors, CAD |
-| [NeuroSense](https://github.com/Abkob/Research_Portfolio/tree/main/projects/neurosense) | Team digital-health design study | Phone IMU, interpretable motor-state features, clinician digest |
+| [NeuroSense](https://github.com/Abkob/Research_Portfolio/tree/main/projects/neurosense) | Team digital-health design study | Concept note, classifier plan, phone IMU, clinician digest |
 | [Ear-EEG Research Plan](https://github.com/Abkob/Research_Portfolio/tree/main/projects/ear-eeg) | Evidence map and staged plan | Ear-centered EEG, evoked responses, seizure-monitoring validation |
 
 ## Vision, robotics, and research systems
